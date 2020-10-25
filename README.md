@@ -13,4 +13,4 @@ pyDiary is a compact commandline-gui based personal secrets and notes keeper.�
 # Upcoming v1.1a Features :🏴‍☠️
 1.Notes can be send to your personal devices - Phone, pc etc via Gmail.
 2.Will be adding python built in end-to-end encryption.
-3.Enhancing stability , adding word features to word processor
+3.Enhancing stability , adding more functions to word processor
