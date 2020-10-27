@@ -1,4 +1,4 @@
-# pyDiary v1.0a🦚
+# pyDiary v1.0a 🔐📔
 
 ![alt img](https://github.com/ArpitMaurya01/pyDiary/blob/main/ScreenShots/pyDiaryss.png)
 
