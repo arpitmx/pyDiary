@@ -2,7 +2,7 @@
 
 ![alt img](https://github.com/ArpitMaurya01/pyDiary/blob/main/ScreenShots/pyDiaryss.png)
 
-pyDiary is a compact commandline-gui based personal secrets and notes keeper.💂
+pyDiary(Python-SQL integration) is a compact commandline-gui based personal secrets and notes keeper.💂
 
 # v1.0a Features : ✌️ 
 1.Contains GUI based text editor for ease of note writing.
