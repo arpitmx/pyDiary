@@ -13,3 +13,7 @@ pyDiary(Python-SQL integration) is a compact commandline-gui based personal secr
 # Upcoming v1.1a Features :🏴‍☠️
 1.Notes can be send to your personal devices - Phone, pc etc via Gmail.
 2.Enhancing stability , adding more functions to word processor
+
+
+<img src="https://user-images.githubusercontent.com/59350776/141678560-87a180ef-5bbc-4c9b-a89f-0108877f49cf.png" width="350">
+
